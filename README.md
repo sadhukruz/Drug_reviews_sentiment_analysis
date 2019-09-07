@@ -3,7 +3,9 @@ This is the project  performing sentiment analysis on the drug reviews data.
 
 
 
-The dataset is extracted from the below link 
+
+
+The dataset is extracted from the below link (unable to upload the files in the github as the size of the files are very large.)You can download the data from the below link and work using google colab  for this project. 
 
 https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018
 
